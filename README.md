@@ -81,7 +81,7 @@ This function generates a perfect maze using a randomized DFS algorithm.
 printMaze()
 printMaze(markX=1, markY=1) # Print with current position
 ```
-This function prints the maze using the ASCII characters as defined in section [Link Text](#maze-representation)
+This function prints the maze using the ASCII characters as defined in section (#maze-representation)
 
 ### Path Plotting
 ```Python
