@@ -1,7 +1,7 @@
 # 🧩 Maze Generator
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 ![Made with NumPy](https://img.shields.io/badge/made%20with-numpy-orange.svg)
 
